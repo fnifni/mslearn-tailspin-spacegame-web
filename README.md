@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/dev-hirokazu/Space%20Game%20-web%20-%20Pipeline/_apis/build/status/fnifni.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/dev-hirokazu/Space%20Game%20-web%20-%20Pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
